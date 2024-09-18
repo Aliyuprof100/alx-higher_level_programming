@@ -1,2 +1,2 @@
 -- This delete our database from the server 
-DROP DATABASE hbtn_0c_0
+DROP DATABASE IF EXISTS  hbtn_0c_0;
