@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// A javascript that display a message
+// A javascript that display a message.
 
 console.log('C is fun');
 console.log('Python is cool');
