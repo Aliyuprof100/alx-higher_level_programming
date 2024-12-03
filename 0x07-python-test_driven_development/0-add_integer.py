@@ -2,14 +2,13 @@
 
 """ This is the header file """
 
+
 def add_integer(a, b=98):
     """
-    Adds two integers.
-    
+    Adds two integers.    
     Parameters:
     a: Must be an integer or float
     b: Must be an integer or float (default: 98)
-    
     Returns:
     The sum of a and b as an integer.
     """
