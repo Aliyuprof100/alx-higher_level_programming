@@ -2,5 +2,6 @@
 
 """Thisdefines a class rectagle """
 
-class Rectangle:
+
+Class Rectangle:
     pass
